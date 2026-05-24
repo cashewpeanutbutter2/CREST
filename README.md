@@ -73,7 +73,7 @@ Phylogenetic Analysis     Ka/Ks Analysis         RSCU Analysis
 
 ### 1. Data Acquisition
 
-The complete mitogenome of *Cacatua alba* was retrieved from NCBI GenBank (accession: **NC_020595.1**) in GenBank (.gb) and FASTA (.fasta) formats. Additional mitogenome sequences of closely related Cacatuidae species were also downloaded for comparative analysis (see [Species List](#species-list--accession-numbers)).
+The complete mitogenome of *Cacatua alba* was retrieved from NCBI GenBank (accession: **MT920475**) in GenBank (.gb) formats. Additional mitogenome sequences of closely related Cacatuidae species were also downloaded for comparative analysis (see [Species List](#species-list--accession-numbers)).
 
 ### 2. Annotation Check
 
