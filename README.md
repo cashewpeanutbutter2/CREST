@@ -1,6 +1,6 @@
 # CREST : Cacatua alba Research on Evolution, Selection Pressure, and Codon Usage Trends
 
-> ** Adelia Yusuf Ardhani, Diandra Azhariyavi Insiraty, Diva Septiani, Ihsanul Fikri Alfarizel, Zafiero Hasby Dzikri ** | Universitas Gadjah Mada  
+> **Adelia Yusuf Ardhani, Diandra Azhariyavi Insiraty, Diva Septiani, Ihsanul Fikri Alfarizel, Zafiero Hasby Dzikri** | Universitas Gadjah Mada  
 > Course: [BIOINFORMATICS]  
 > Accession: MT920475 | Tools: Geneious Prime · MEGA 12 · Proksee · Microsoft Excel
 
@@ -40,7 +40,7 @@ This repository documents the complete workflow for comparative mitogenomic anal
 | Family | Cacatuidae |
 | IUCN Status | **Endangered** |
 | CITES | Appendix II |
-| Mitogenome accession | NC_020595.1 |
+| Mitogenome accession | MT920475 |
 | Mitogenome length | 18,894 bp |
 | Gene content | 13 PCGs, 24 tRNA, 2 rRNA, 2 Control Regions, 3 degenerated genes |
 
