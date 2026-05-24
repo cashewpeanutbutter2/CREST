@@ -183,20 +183,19 @@ Where:
 
 | No | Species | Accession Number | Family | Reference |
 |---|---|---|---|---|
-| 1 | *Cacatua alba* | NC_020595.1 | Cacatuidae | NCBI RefSeq |
-| 2 | *Cacatua alba* | MT920475 | Cacatuidae | Kim et al. (2021) |
-| 3 | *Cacatua galerita* | MT920476 | Cacatuidae | Kim et al. (2021) |
-| 4 | *Cacatua goffiniana* | MT920477 | Cacatuidae | Kim et al. (2021) |
-| 5 | *Cacatua moluccensis* | MH133972 | Cacatuidae | Urantówka et al. (2018) |
-| 6 | *Cacatua pastinator* | MH133973 | Cacatuidae | Urantówka et al. (2018) |
-| 7 | *Eolophus roseicapillus* | MH133971 | Cacatuidae | Urantówka et al. (2018) |
-| 8 | *Probosciger aterrimus* | MH133970 | Cacatuidae | Urantówka et al. (2018) |
-| 9 | *Calyptorhynchus baudinii* | MH133969 | Cacatuidae | Urantówka et al. (2018) |
-| 10 | *Calyptorhynchus lathami* | JF414241 | Cacatuidae | White et al. (2011) |
-| 11 | *Calyptorhynchus latirostris* | JF424243 | Cacatuidae | White et al. (2011) |
-| 12 | *Nymphicus hollandicus* | MH133968 | Cacatuidae | Urantówka et al. (2018) |
-| 13 | *Nestor notabilis* | MH133967 | Cacatuidae | Urantówka et al. (2018) |
-| 14 | *Strigops habroptila* | AY309456 | Strigopidae | Harrison et al. (2004) |
+| 1 | *Cacatua alba* | MT920475 | Cacatuidae | Kim et al. (2021) |
+| 2 | *Cacatua galerita* | MT920476 | Cacatuidae | Kim et al. (2021) |
+| 3 | *Cacatua goffiniana* | MT920477 | Cacatuidae | Kim et al. (2021) |
+| 4 | *Cacatua moluccensis* | MH133972 | Cacatuidae | Urantówka et al. (2018) |
+| 5 | *Cacatua pastinator* | MH133973 | Cacatuidae | Urantówka et al. (2018) |
+| 6 | *Eolophus roseicapillus* | MH133971 | Cacatuidae | Urantówka et al. (2018) |
+| 7 | *Probosciger aterrimus* | MH133970 | Cacatuidae | Urantówka et al. (2018) |
+| 8 | *Calyptorhynchus baudinii* | MH133969 | Cacatuidae | Urantówka et al. (2018) |
+| 9 | *Calyptorhynchus lathami* | JF414241 | Cacatuidae | White et al. (2011) |
+| 10 | *Calyptorhynchus latirostris* | JF424243 | Cacatuidae | White et al. (2011) |
+| 11 | *Nymphicus hollandicus* | MH133968 | Cacatuidae | Urantówka et al. (2018) |
+| 12 | *Nestor notabilis* | MH133967 | Cacatuidae | Urantówka et al. (2018) |
+| 13 | *Strigops habroptila* | AY309456 | Strigopidae | Harrison et al. (2004) |
 
 ---
 
