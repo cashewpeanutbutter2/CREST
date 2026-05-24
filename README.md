@@ -49,7 +49,7 @@ This repository documents the complete workflow for comparative mitogenomic anal
 ## Workflow
 
 ```
-NCBI GenBank (NC_020595.1)
+NCBI GenBank (MT920475)
         │
         ▼
 Annotation Check (Geneious Prime)
@@ -95,7 +95,7 @@ Circular mitogenome map was generated using **Proksee** ([proksee.ca](https://pr
 - GC Skew calculated as: **GC Skew = (G − C) / (G + C)**
 
 ![Mitogenome Map](images/proksee_map.png)
-*Figure 1. Circular map of the complete mitogenome of Cacatua alba (NC_020595.1) visualized using Proksee.*
+*Figure 1. Circular map of the complete mitogenome of Cacatua alba (MT920475) visualized using Proksee.*
 
 ### 4. Multiple Sequence Alignment
 
@@ -195,7 +195,7 @@ Where:
 | 10 | *Calyptorhynchus latirostris* | JF424243 | Cacatuidae | White et al. (2011) |
 | 11 | *Nymphicus hollandicus* | MH133968 | Cacatuidae | Urantówka et al. (2018) |
 | 12 | *Nestor notabilis* | MH133967 | Cacatuidae | Urantówka et al. (2018) |
-| 13 | *Strigops habroptila* | AY309456 | Strigopidae | Harrison et al. (2004) |
+| 13 | *Psittacus erithacus* | AY309456 | Strigopidae | Harrison et al. (2004) |
 
 ---
 
